@@ -6,5 +6,6 @@ public class Main {
             System.out.println("This is a second test statement");
             A ab = new A();
             ab.printMessage();
+            System.out.println("End of program");
     }
 }
